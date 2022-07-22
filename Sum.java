@@ -9,9 +9,9 @@ int difference=b-a;
 int sum=a+b;
 double average=sum/2;
 {
-	System.out.println("the sum of two" +sum);
+	System.out.println("the sum of a and b is =" +sum);
 	System.out.println("the average of a and b is="+average);
-	System.out.println("difference="+difference);
+	System.out.println("the difference of a and b="+difference);
 }
 
 }
