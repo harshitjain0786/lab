@@ -9,11 +9,11 @@ class AreaOfRectSqu
 	wid=2;
 	areaOfRect=len*wid;
 	areaOfSquare=sides*sides;
-	{
+	
 		System.out.println("the area of rectangle is"+areaOfRect);
 		System.out.println("the area of square is"+areaOfSquare);
 		
-	}
+	
 	}
 	
 }
