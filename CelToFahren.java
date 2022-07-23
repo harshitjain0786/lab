@@ -8,8 +8,8 @@
 double CelToFahren;
 		celcius=47;
 		CelToFahren=celcius*1.8+32;
-		{
+		
 			System.out.println("celcius to fahrenheit is =" +CelToFahren);
-		}
+		
 	}
 }
